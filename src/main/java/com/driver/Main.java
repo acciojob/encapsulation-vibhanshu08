@@ -7,6 +7,6 @@ public class Main {
       RWOnly rwo=new RWOnly();
 //      rwo.name="vibhan";
       rwo.settname("viban");
-      System.out.println(rwo.getname());
+      // System.out.println(rwo.getname());
   }
 }
